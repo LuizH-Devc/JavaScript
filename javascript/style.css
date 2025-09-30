@@ -7,3 +7,14 @@
 h1 , h2 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+.hr-1-Style {
+   border-color: rgb(0, 0, 0);
+   border-width: 2px;
+   height: 1px;
+}
+
+.div1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
