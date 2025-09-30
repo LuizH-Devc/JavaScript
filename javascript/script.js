@@ -52,5 +52,5 @@ var idade = 18;
 // console.log(idade >= 18);
 
 if(idade = 18){
-    console.log('Você e maior de idade.')
+    console.log('Você e maior de idade.');
 }
