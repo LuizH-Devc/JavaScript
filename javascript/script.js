@@ -48,9 +48,21 @@
 
 //---------------------------------------//
 
-var idade = 18;
-// console.log(idade >= 18);
+// var idade = 18;
+// // console.log(idade >= 18);
 
-if(idade = 18){
-    console.log('Você e maior de idade.');
-}
+// if(idade = 18){
+//     console.log('Você e maior de idade.');
+// }
+
+//---------------------------------------//
+
+// if(true){
+//     console.log('hello')
+// }
+
+//---------------------------------------//
+
+var idade = prompt('Digite sua idade');
+
+console.log(idade);
