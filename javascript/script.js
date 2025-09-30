@@ -115,22 +115,22 @@
 // Explicação : Ser a letra (F) ser for digitada vai dar feminino, Ser a letra (M) ser for digitado vai dar masculino o (toUpperCase) vai obriga esta em maiusculo se não vai ter uma alerta de  "alert("A letra deve ser maiúscula e única.");" com isso não respodendo a perqunta.
 // Programa para verificar gênero a partir de uma letra
 
-let letra = prompt("Digite uma letra (F ou M):");
+// let letra = prompt("Digite uma letra (F ou M):");
 
-// Transforma a entrada em maiúscula
-if (letra && letra.length === 1) {
-    let letraMaiuscula = letra.toUpperCase();
+// // Transforma a entrada em maiúscula
+// if (letra && letra.length === 1) {
+//     let letraMaiuscula = letra.toUpperCase();
 
-    if (letraMaiuscula === "F") {
-        alert("Feminino");
-    } else if (letraMaiuscula === "M") {
-        alert("Masculino");
-    } else {
-        alert("Letra inválida. Digite so as letras ([ M ] || [ m ] ou [ F ] || [ f ]) !!! ");
-    }
-} else {
-    alert("Digite apenas uma letra.");
-}
+//     if (letraMaiuscula === "F") {
+//         alert("Feminino");
+//     } else if (letraMaiuscula === "M") {
+//         alert("Masculino");
+//     } else {
+//         alert("Letra inválida. Digite so as letras ([ M ] || [ m ] ou [ F ] || [ f ]) !!! ");
+//     }
+// } else {
+//     alert("Digite apenas uma letra.");
+// }
 
 
 // //---------------------------------------//
