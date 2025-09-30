@@ -29,3 +29,14 @@
 // console.log(10 <= 5); // menor ou iqual a que
 // console.log(10 == '10'); // iqualdade
 // console.log(10 === '10'); // estrita igualdade
+
+//---------------------------------------//
+
+// Operadores de Atribuição
+
+var numero = 10; // atribuição
+numero += 5; // atribuição com adição de valor
+numero -= 5; // atibuição com subtração de valor
+numero *= 5; // atibuição com multiplicação de valor
+numero -= 5; // atibuição com divisão de valor
+console.log(numero);
